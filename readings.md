@@ -193,7 +193,7 @@
 
 <div id="s-lg-content-47968153">
     <span>
-        <a href="https://www.newyorker.com/magazine/2013/11/18/thanksgiving-in-mongolia" target="_blank" 
+        <a href="https://www.newyorker.com/magazine/2013/11/18/thanksgiving-in-mongolia" target="" 
            onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '47968153',_st_inc_return: this});">
             "Thanksgiving in Mongolia" by Ariel Levy
         </a>
@@ -206,8 +206,7 @@
            onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '47968153',_st_inc_return: this});">
             "Thanksgiving in Mongolia (PDF)" by Ariel Levy
         </a>
-    </span>
-</div>
+    
 
 
 <script>
